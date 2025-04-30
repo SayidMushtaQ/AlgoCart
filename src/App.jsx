@@ -1,13 +1,10 @@
-import NavBar from "./components/Navbar";
-import MobileFilterSidebar  from './components/MobileFilterSidebar'
-import React from 'react'
+import React from "react";
+import MainProductPage from './components/MainProductPage'
 function App() {
   return (
     <React.Fragment>
-      <NavBar />
-      <MobileFilterSidebar /> 
       <main>
-
+        <MainProductPage />
       </main>
     </React.Fragment>
   );
