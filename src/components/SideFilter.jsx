@@ -1,6 +1,6 @@
 
 export const Sidebar = () => (
-  <aside className="w-64 h-full border-r rounded-md bg-white shadow-md hidden md:block mt-55">
+  <aside className="w-64 h-full border-r rounded-md bg-white shadow-md hidden md:block mt-45">
     <div className="h-full p-4 overflow-y-auto scrollbar-hide">
       <h2 className="text-xl font-bold mb-4">Filters</h2>
       <div className="mb-6">
